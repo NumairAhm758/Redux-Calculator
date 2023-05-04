@@ -1,0 +1,31 @@
+.main-div{
+    background-color: black;
+    color: white;
+    width: 25%;
+}
+.calculator-button{
+    background-color: darkgray;
+    color: black;
+    border-radius: 50%;
+    border: none;
+}
+.calculator-orange-button{
+    background-color: orange;
+    color: white;
+    border-radius: 50%;
+    border: none;
+}
+.calculator-grey-button{
+    background-color:darkslategray;
+    color: white;
+    border-radius: 50%;
+    border: none;
+}
+.double-size-button{
+    background-color:darkslategray;
+    color: white;
+    border: none;
+    padding-right: 55px;
+    padding-left: 55px;
+    border-radius: 50px;
+}
